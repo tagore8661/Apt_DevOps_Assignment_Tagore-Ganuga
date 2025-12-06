@@ -75,7 +75,7 @@ aws sts get-caller-identity
 │   ├──03-Target-Group.png
 │   ├──04-ALB.png
 │   ├──05-Simple-Text-Response.png
-│   ├──06-Health-Check.png
+│   ├──06-Health-Check-Response.png
 │   └──07-Destroy.png
 ├── scripts/                # Automation scripts
 │   ├── deploy.sh           # Linux/macOS deployment
@@ -90,7 +90,7 @@ aws sts get-caller-identity
 │   ├── outputs.tf          # Output values
 │   ├── provider.tf         # Provider Details
 │   └── terraform.tfvars    # Variable values (optional)
-├── .github/
+├── .gitignore
 └── README.md               # This file
 ```
 
